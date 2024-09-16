@@ -91,7 +91,7 @@ find [**Run_TopNaniteTool.hip**] in ..\NaniteTree\NaniteFoliageTool\Hips
 
 Please check [Detailed Tutorial](./Mesh_Simplification/README.md)
 
-## ## Build your own hda tool
+## Build your own hda tool
 
 If you want to modify or customize related functions based on this tool, you can refer to the following steps
 
